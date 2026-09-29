@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+.venv/
+
+# SQLite Database
+database/*.db
+
+# macOS
+.DS_Store
+`
